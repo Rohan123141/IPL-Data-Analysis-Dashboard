@@ -69,8 +69,6 @@ streamlit run app.py
 - Team statistics
 - Venue analysis
 - Season trends
-- Orange Cap analysis
-- Purple Cap analysis
 - Batting and Bowling analytics
 
 ## 👨‍💻 Author
