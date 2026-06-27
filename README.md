@@ -37,7 +37,7 @@ IPL-Data-Analysis-Dashboard/
 ```
 
 ## 🚀 Live Demo
-rohan123141/ipl-data-analysis-dashboard/main/app.py
+https://ipl-data-analysis-dashboard-ugnrwyd42jy7zrcpr4jtjc.streamlit.app/
 ## 🚀 Installation
 
 Clone the repository
